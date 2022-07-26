@@ -1,3 +1,4 @@
+--->Project_07-27(1)_HD 720p_MEDIUM_FR30.mp4 is a 4-min demo video.
 -->Technologies used:
 Frontend: React.js
 API: Express.js (node.js)
